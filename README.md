@@ -1,4 +1,4 @@
 ## TECH STACK
 * Mongodb
 * Nextjs
-* Golang
+* Golang (Echo)
